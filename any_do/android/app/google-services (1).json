@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284166581423",
+    "project_id": "anydo-6d6d9",
+    "storage_bucket": "anydo-6d6d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284166581423:android:fa8d5450779ba749ed785a",
+        "android_client_info": {
+          "package_name": "com.example.any_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284166581423-2kt55554a6vqoeoqiu6p2rm6um98f8p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxizbKu3kuBzWh3HF5Qm0RcgTqeSvjcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284166581423-2kt55554a6vqoeoqiu6p2rm6um98f8p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
